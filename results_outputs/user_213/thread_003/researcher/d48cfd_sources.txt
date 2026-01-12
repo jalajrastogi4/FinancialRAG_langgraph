@@ -1,0 +1,8 @@
+Sources:
+
+1.  **amazon 10-k 2024:** Used for annual net sales and operating income for AWS, Online Stores, Advertising Services, and overall consolidated results for 2022, 2023, and 2024. Contains detailed segment information.
+2.  **amazon 10-k 2023.md:** Referenced for general financial information context, though primary data for 2023 was available in the 2024 10-K.
+3.  **amazon 10-q q3 2024.md:** Used for interim net sales and operating income data for North America, International, and AWS for the three and nine months ended September 30, 2023 and 2024. Also provided context on segment definitions.
+4.  **amazon 10-q q2 2025.md:** Provided forward-looking interim data for North America, International, and AWS for the three and six months ended June 30, 2024 and 2025.
+5.  **amazon 10-q q2 2024.md:** Used for interim net sales and operating income data for North America, International, and AWS for the three and six months ended June 30, 2023 and 2024.
+6.  **amazon 10-q q1 2024.md:** Referenced for general financial information context for Q1 2024.

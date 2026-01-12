@@ -1,0 +1,39 @@
+Source: amazon 10-k 2023.md
+- Net Sales (in millions) for 2023:
+  - North America: $352,828
+  - International: $131,200
+  - AWS: $90,757
+  - Consolidated: $574,785
+- Year-over-year Percentage Growth for 2023:
+  - North America: 12%
+  - International: 11%
+  - AWS: 13%
+  - Consolidated: 12%
+- Net sales by groups of similar products and services (in millions) for 2023:
+  - Online stores: $231,872
+  - Physical stores: $20,030
+  - Third-party seller services: $140,053
+  - Advertising services: $46,906
+  - Subscription services: $40,209
+  - AWS: $90,757
+  - Other: $4,958
+
+Source: amazon 10-q q1 2024.md
+- Net Sales (in millions) for Three Months Ended March 31, 2024:
+  - North America: $86,341 (vs $76,881 in Q1 2023)
+  - International: $31,935 (vs $29,123 in Q1 2023)
+  - AWS: $25,037 (vs $21,354 in Q1 2023)
+  - Consolidated: $143,313 (vs $127,358 in Q1 2023)
+- Year-over-year Percentage Growth (Q1 2024 vs Q1 2023):
+  - North America: 12%
+  - International: 10%
+  - AWS: 17%
+  - Consolidated: 13%
+- Net sales by groups of similar products and services (in millions) for Three Months Ended March 31, 2024:
+  - Online stores: $54,670
+  - Physical stores: $5,202
+  - Third-party seller services: $34,596
+  - Advertising services: $11,824
+  - Subscription services: $10,722
+  - AWS: $25,037
+  - Other: $1,262

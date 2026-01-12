@@ -1,0 +1,4 @@
+Source: amazon 10-k 2024.md - Amazon.com, Inc. 2024 10-K Filing
+Source: amazon 10-q q1 2024.md - Amazon.com, Inc. Q1 2024 10-Q Filing
+Source: amazon 10-q q2 2024.md - Amazon.com, Inc. Q2 2024 10-Q Filing
+Source: amazon 10-q q3 2024.md - Amazon.com, Inc. Q3 2024 10-Q Filing

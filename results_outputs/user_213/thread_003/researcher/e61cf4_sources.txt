@@ -1,0 +1,50 @@
+Source: meta 10-k 2024.md
+- Total revenue for 2024 was $164.50 billion, an increase of 22% compared to 2023. Revenue on a constant currency basis would have increased 23%.
+- Ad impressions delivered across our Family of Apps in 2024 increased 11% year-over-year, and our average price per ad increased 10% year-over-year.
+- Income from operations for 2024 was $69.38 billion, an increase of $22.63 billion, or 48%, compared to 2023. The increase in costs and expenses was mainly due to increases in operational expenses related to our data centers and technical infrastructure and employee compensation.
+- Interest and other income (expense), net in 2024 increased $606 million compared to 2023, mostly due to an increase in interest income from a combination of higher balances and interest rates, partially offset by an increase in interest expense on our long-term debt.
+- Our provision for income taxes in 2024 decreased $27 million compared to 2023, due to a decrease in the effective tax rate (12% in 2024 vs 18% in 2023). Our effective tax rate in the future will depend upon various items, and we expect our effective tax rate for the full year 2025 to be in the range of 12-15%.
+- Cash used in financing activities during 2024 mostly consisted of $30.13 billion for repurchases of our Class A common stock, $5.07 billion of payments of dividends and dividend equivalents, and $13.77 billion of taxes paid related to net share settlement of RSUs, partially offset by $10.43 billion of net proceeds from the issuance of additional Notes in August 2024.
+- Free cash flow: $52,103 million in 2024, compared to $43,010 million in 2023.
+- Foreign currency exchange losses, net: (690) million in 2024.
+- Mandatory capitalization and amortization of research and development expenses incurred in 2024, as required by the 2017 Tax Cuts and Jobs Act (Tax Act). The mandatory capitalization requirement increased our 2024 cash tax liabilities materially but also decreased our effective tax rate due to increasing the foreign-derived intangible income deduction. If the mandatory capitalization is deferred, our effective tax rate in 2025 could be higher when compared to current law and our cash tax liabilities could be lower.
+- A number of countries have enacted legislation to implement the Organization for Economic Cooperation and Development's 15% global minimum tax regime with effect from January 1, 2024. These changes did not have a material impact on our consolidated financial statements for 2024. We continue to evaluate the impacts of proposed and enacted legislation with respect to the global minimum tax regime in the jurisdictions we operate in. As additional jurisdictions enact legislation, transitional relief expires, and other provisions of the minimum tax legislation become effective, our effective tax rate and cash tax payments could increase in future years.
+
+Source: google 10-k 2024.md
+- Consolidated revenues: $350,018 million in 2024, 14% increase year over year (15% in constant currency).
+- Cost of revenues: $146,306 million in 2024, 10% increase year over year, primarily driven by increases in content acquisition costs, TAC, and depreciation expense.
+- Operating expenses: $91,322 million in 2024, 2% increase year over year, primarily driven by increases in depreciation expense, employee compensation expenses, and third-party services fees.
+- Operating income: $112,390 million in 2024, 33% increase year over year. Operating margin: 32% in 2024.
+- Other income (expense), net: $7,425 million in 2024.
+- Net income: $100,118 million in 2024, 36% increase. Diluted EPS: $8.04 in 2024, 39% increase.
+- Dividend payments to stockholders totaling $7.4 billion for the year ended December 31, 2024, first paid in June 2024.
+- Repurchases of Class A and Class C shares totaling $62.0 billion for the year ended December 31, 2024.
+- Operating cash flow was $125.3 billion for the year ended December 31, 2024.
+- Capital expenditures were $52.5 billion for the year ended December 31, 2024, primarily reflected investments in technical infrastructure.
+- As of December 31, 2024, we had 183,323 employees.
+
+Source: apple 10-k 2024.md
+- Maintained, in all material respects, effective internal control over financial reporting as of September 28, 2024.
+- Audited consolidated balance sheets as of September 28, 2024, and related consolidated statements of operations, comprehensive income, shareholders' equity and cash flows for each of the three years in the period ended September 28, 2024, present fairly, in all material respects.
+- As of September 28, 2024, the total amount of gross unrecognized tax benefits was $22.0 billion, of which $10.8 billion, if recognized, would impact the Company's effective tax rate. The Company uses significant judgment in the interpretation and application of GAAP and complex domestic and international tax laws.
+- Internal control over financial reporting may not prevent or detect misstatements. Projections of any evaluation of effectiveness to future periods are subject to the risk that controls may become inadequate because of changes in conditions, or that the degree of compliance with the policies or procedures may deteriorate.
+
+Source: amazon 10-k 2024.md
+- Inventory valuation allowance: for every 1% of additional inventory valuation allowance as of December 31, 2024, we would have recorded an additional cost of sales of approximately $365 million.
+- Income Taxes: Tax laws, regulations, administrative practices, principles, and interpretations in various jurisdictions may be subject to significant change. We are also currently subject to tax controversies in various jurisdictions.
+- Cash provided by operating activities was $115,877 million in 2024 compared to $84,946 million in 2023.
+- Cash, cash equivalents, and marketable securities balances were $101.2 billion as of December 31, 2024.
+
+Source: amazon 10-q q3 2024.md
+- Fourth Quarter 2024 Guidance (as of October 31, 2024):
+    - Net sales are expected to be between $181.5 billion and $188.5 billion, or to grow between 7% and 11% compared with fourth quarter 2023. This guidance anticipates an unfavorable impact of approximately 10 basis points from foreign exchange rates.
+    - Operating income is expected to be between $16.0 billion and $20.0 billion, compared with $13.2 billion in fourth quarter 2023.
+    - This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are concluded.
+- 2024 Short-Term Credit Agreement on October 30, 2024, provides the Company with an unsecured revolving credit facility with a borrowing capacity of up to $5.0 billion for general corporate purposes.
+
+Source: amazon 10-q q1 2024.md
+- Second Quarter 2024 Guidance (as of April 30, 2024):
+    - Net sales are expected to be between $144.0 billion and $149.0 billion, or to grow between 7% and 11% compared with second quarter 2023. This guidance anticipates an unfavorable impact of approximately 60 basis points from foreign exchange rates. In first quarter 2024 the impact from Leap Year added approximately 120 basis points to the year-over-year net sales growth rate.
+    - Operating income is expected to be between $10.0 billion and $14.0 billion, compared with $7.7 billion in second quarter 2023.
+    - This guidance assumes, among other things, that no additional business acquisitions, restructurings, or legal settlements are concluded.
+- These forward-looking statements reflect Amazon.com's expectations and are subject to substantial uncertainty and may be materially affected by many factors, such as fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions and customer demand and spending (including the impact of recessionary fears), inflation, interest rates, regional labor market constraints, world events, the rate of growth of the internet, online commerce, cloud services, and new and emerging technologies.

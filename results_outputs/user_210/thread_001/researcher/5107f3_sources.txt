@@ -1,0 +1,30 @@
+Source: amazon 10-k 2023.md
+Date: February 1, 2024 (Report dated for filing and opinion)
+
+**Key Snippets:**
+
+**Guidance for First Quarter 2024:**
+- "Net sales are expected to be between $138.0 billion and $143.5 billion, or to grow between 8% and 13% compared with first quarter 2023. This guidance anticipates a favorable impact of approximately 40 basis points from foreign exchange rates."
+- "Operating income is expected to be between $8.0 billion and $12.0 billion, compared with $4.8 billion in first quarter 2023. This guidance includes approximately $0.9 billion lower depreciation expense due to an increase in the estimated useful life of our servers beginning on January 1, 2024."
+- "Our results are inherently unpredictable and may be materially affected by many factors, such as fluctuations in foreign exchange rates, changes in global economic and geopolitical conditions and customer demand and spending (including the impact of recessionary fears), inflation, interest rates, regional labor market constraints, world events, the rate of growth of the internet, online commerce, cloud services, and new and emerging technologies..."
+
+**Consolidated Statements of Operations (for the year ended December 31, 2023):**
+- "Total net sales: $469,822 [2021], $513,983 [2022], $574,785 [2023]"
+- "Operating income: $24,879 [2021], $12,248 [2022], $36,852 [2023]"
+- "Net income (loss): $33,364 [2021], $ (2,722) [2022], $30,425 [2023]"
+
+**Segment Information (Operating Income (Loss) by segment for 2023 vs 2022):**
+- "North America: $ (2,847) [2022], $ 14,877 [2023]"
+- "International: $ (7,746) [2022], $ (2,656) [2023]"
+- "AWS: $ 22,841 [2022], $ 24,631 [2023]"
+
+**Segment Information (Net Sales by segment for 2023 vs 2022):**
+- "North America: $ 315,880 [2022], $ 352,828 [2023]"
+- "International: $ 118,007 [2022], $ 131,200 [2023]"
+- "AWS: $ 80,096 [2022], $ 90,757 [2023]"
+
+**Overview (Market Conditions and Trends):**
+- "Macroeconomic factors, including inflation, increased interest rates, significant capital market and supply chain volatility, and global economic and geopolitical developments, have direct and indirect impacts on our results of operations that are difficult to isolate and quantify... We also expect the current macroeconomic environment and enterprise customer cost optimization efforts to impact our AWS revenue growth rates. We expect some or all of these factors to continue to impact our operations into Q1 2024."
+- "The North America operating income in 2023, as compared to the operating loss in the prior year, is primarily due to increased unit sales and increased advertising sales, partially offset by increased shipping and fulfillment costs and increased technology and infrastructure costs."
+- "The decrease in International operating loss in absolute dollars in 2023, compared to the prior year, is primarily due to increased unit sales and increased advertising sales, partially offset by increased fulfillment and shipping costs and increased technology and infrastructure costs."
+- "The increase in AWS operating income in absolute dollars in 2023, compared to the prior year, is primarily due to increased sales, partially offset by increased payroll and related expenses and spending on technology infrastructure, both of which were primarily driven by additional investments to support AWS business growth."
